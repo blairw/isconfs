@@ -1,0 +1,19 @@
+header:
+  name: ACIS
+  url: https://aisel.aisnet.org/acis/
+
+submissions_close:
+  month: Aug
+  day: 2nd
+  note: (estimated)
+
+acceptance_notice:
+  month: Sep
+  day: 27th
+  note: (estimated)
+
+conference:
+  month: Dec
+  day: 1-4
+  note: (estimated)
+

@@ -1,0 +1,20 @@
+header:
+  name: ECIS
+  url: https://aisnet.org/page/ECISPage
+
+submissions_close:
+  month: Nov
+  day: 17th
+  note: (estimated)
+
+acceptance_notice:
+  month: Feb
+  day: 28th
+  note: (confirmed)
+  note_url: https://ecis2022.eu/important-dates/
+
+conference:
+  month: Jun
+  day: 22-24
+  note: (confirmed)
+  note_url: https://ecis2022.eu/important-dates/
